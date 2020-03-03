@@ -1,0 +1,25 @@
+﻿Annonce : Stage PFE – Ingénieur en Statistiques (Data Analyste)
+Profil et Prérequis :
+• Formation Ingénieur ou BAC +5 en statistiques, BI, recherches opérationnelles
+• Excellente maitrise des outils et du langage informatique
+• Maitrise des techniques d’analyse des données, des méthodologies statistiques
+• Maitrise de l’anglais
+• Esprit d’analyse et de synthèse, esprit de coordination, esprit critique
+• Aisance rédactionnelle
+• Organisation, rigueur
+• Qualités relationnelles et de l’écoute, créativité, conscience professionnelle
+• Réactivité et prise d’initiative
+• Polyvalence
+• Travail d’équipe
+• Souci du détail et de la qualité
+Compétences techniques requises :
+Connaissance d’un outil de BI (Suite Microsoft)/SQL/Excel/Python /Modélisation ;
+Sujet du stage :
+Conception & mise en place de Pattern/Template pré-exécutés de rapports financiers ;
+Orienté analyse, data & métiers ;
+Activités principales :
+Analyse des données ;
+Rédaction des scripts SQL & Template/charts pour aboutir à un Dashboard financier
+complet ;
+Pour toutes candidatures et renseignements, contactez-nous :
+Mail : recrutement@quantik.ma

@@ -1,0 +1,16 @@
+﻿
+Offre PFE – JAVA/JEE ,  SAP Commerce (Hybris)
+
+Salam, 
+
+Dans le cadre d’un projet de mise en place d’un site e-commerce à la base de la solution SAP Commerce (Hybris).
+
+La société Omniconsulting offre un stage PFE en développement JAVA/JEE, SAP Hybris.
+
+Compétences techniques de base : Programmation orienté objet. Java/JEE (JDBC, JSP, Servlet). Spring,Spring IOC/MVC, ANT, Eclipse, MySQL Tomcat.
+
+Merci aux intéressés d’envoyer leurs CVs à l'adresse suivante : alaoui.asmaa@omniconsulting.be
+
+Lieu du stage : Agdal, Rabat.
+
+Cordialement,

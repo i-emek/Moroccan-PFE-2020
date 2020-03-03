@@ -1,0 +1,8 @@
+﻿OFFRE DE PROJET DE FIN D'ETUDE  PHP NIVEAU BAC+4/+5 GÉNIE INFORMATIQUE  (H/F) CASABLANCA  :
+
+
+Société de construction est à la recherche d’un stagiaire en PFE  afin de développer un système intranet pour la gestion de la flotte matériel.
+
+Activités et tâches spécifiques : 
+
+Vous développeriez une base de donnée matériels  de gestion de la flotte matériels , Ce système sera créé sous langage PHP  et devra être interfacé avec d'autres applications « excel, word ..etc »

@@ -1,0 +1,43 @@
+﻿LOGIGROUP est une entreprise de service numérique ESN, qui évolue dans les domaines du développement logiciel, de l’informatique décisionnelle (Business Intelligence), du développement Web et de l’intégration des progiciels de gestion (ERP & CRM).
+
+
+LOGIGROUP offre un Stage PFE : Ingénieur d'études et développement-(H/F)
+
+
+Dans le cadre de notre campagne de Recrutement – Stages PFE – Janvier 2020, nous cherchons des stagiaires pour participer à des missions de développement, en collaboration avec leurs tueurs et au sein d’une équipe composée de développeurs, d'administrateurs de base de données et d'analystes fonctionnels.
+
+
+Missions:
+
+Au sein d'une équipe dynamique et créative, vous allez travailler sur un projet web innovant avec la création et l'amélioration des applications web et mobile, site web, back office, API Rest...
+
+    Réalisation des développements JAVA/JEE , .Net
+    Participation au développement des modules fonctionnels des applications web 
+    Contribution au développement des fonctionnalités majeures des différentes applications
+    Maintien de la ville technologique sur Les technos front & back
+
+
+Compétences:
+
+    Bonne connaissance du JAVA et du ASP.NET
+    Bonne pratique SQL Server (Architecture et TSQL)
+
+
+Profil recherché:
+
+    Etudiant(e) en cursus universitaire ou en École d'ingénieurs en recherche d'un stage de fin d'études
+    De formation informatique, vous avez envie de monter en compétences sur les différents volets de développement
+    Vous êtes autonome, rigoureux, ayant une bonne capacité de synthèse et d'adaptation
+    Vous savez travailler en équipe et faites preuve de leadership et de bon relationnel (relation cliente)
+    Vous parlez couramment le Francais
+
+
+Détails du stage :
+
+    Démarrage : Apartir de Janvier 2020
+    Durée : 6 mois
+    Localisation : Casablanca
+    Stage rémunéré
+
+
+Merci d’envoyer votre CV à : gs@logigroup.ma Ou bien via notre site web : www.logigroup.ma

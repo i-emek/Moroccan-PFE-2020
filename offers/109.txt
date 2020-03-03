@@ -1,0 +1,14 @@
+﻿
+📢 === > < Stage PFE !>
+
+Dans le cadre de ses activités de développement en matière de solutions informatiques, AFD.TECH est à la recherche des profils Bac+5 pour un stage PFF pré-embauche :
+
+-	Durée : 6 mois à partir de février 2020
+-	Stage rémunéré
+-	Technologies : ASP.NET  MVC/ WEB API/ ANGULAR / SALESFORCE / TALEND / SQL SEREVR
+
+NB :
+Le poste est basé sur Rabat.
+La convention de stage est obligatoire.
+
+Merci d’adresser vos candidatures à l’adresse suivante : kjaouhar@afdtech.com

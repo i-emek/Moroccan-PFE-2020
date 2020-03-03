@@ -1,0 +1,29 @@
+﻿Offre de stage #PFE :
+Pour accompagner la croissance du groupe Leyton, l'équipe Web-Apps cherche à recruter 3 stagiaires PFE pour l'année 2020.
+Nous cherchons des élèves ingénieurs en informatique, issus des grandes écoles d'ingénieurs, de préférence. Les candidats doivent être curieux, flexibles et passionnés par toutes les nouvelles technologies.
+Durant son stage, le / la stagiaire aura pour mission de réaliser un des sujets suivants :
+•       Réalisation d'un #ChatBot
+•       Refonte d'une application métier en VueJS / Laravel
+•       Conception et développement d'une application #PWA
+•       Conception et développement d'une application mobile Cross-Platform Native (NativeScript)
+
+La maitrise {{ d'une partie }} de ces technologies est un prérequis:
+•       Docker
+•  #Laravel
+•       VueJS
+•       NodeJS
+•       NativeScript
+•  #IA et NLU, avec Python
+•       Responsive design et #PWA
+•       Système Linux
+•       Git
+Les atouts :
+•       Bonne communication Français / Anglais
+•       Très bonne culture web
+•       Suivi des tendances des nouvelles technologies
+•       Curiosité
+•       Assiduité
+•       Engagement
+•       Flexible et autodidacte
+
+c@leyton.com

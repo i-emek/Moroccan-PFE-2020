@@ -1,0 +1,45 @@
+﻿Accenture Technology est une des 5 entités d’Accenture (Strategy, Consulting, Digital, Technology et Operations). Nos collaborateurs accompagnent les clients sur leurs problématiques technologiques les plus complexes, en créant des solutions sur mesure en partenariat avec les plus grandes entreprises technologiques (dont SAP, Oracle, Microsoft, salesforce.com, Cisco, IBM et HP), ou au moyen des technologies émergentes grâce à nos Labs.
+
+Nos experts d’Accenture Technology sont capables de créer de nouvelles expériences utilisateurs, de transformer les organisations de nos clients en utilisant les dernières technologies et méthodologies numériques autour du Cloud, de l'Intelligence Artificielle, de l'Automatisation Intelligente, du DevOps et de l’Agile. Ils assurent la mise en œuvre de solutions innovantes pour aider nos clients à surmonter les perturbations du marché et à garder une longueur d'avance à l’ère du digital.
+
+Vos missions
+
+
+
+L’ingénieure stagiaire contribue au développement, à la mise en place et à la gestion de solutions technologiques pour les entreprises. Il a une certaine expérience du coding, du test et de la mise en œuvre des changements de configuration et a déjà contribué à la conception d'applications visant à répondre à des besoins techniques et fonctionnels.
+
+Principales responsabilités :
+
+        Coder et tester les modules de programme conformes aux spécifications de conception et contribuer à la conception ;<?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" />
+        Participer à l'analyse des exigences techniques (User Story, Spécifications) relatives aux applications ;
+        Contribuer à la mise en œuvre de l'infrastructure technique : réseaux, plates-formes, serveurs, préparatifs liés à l'entreprise et au logiciel, sécurité et gestion des opérations ;
+        Assurer la maintenance, le réglage et l'évolution des logiciels afin qu'ils continuent à fournir des performances conformes aux spécifications techniques et fonctionnelles et apporter un support aux utilisateurs ;
+        Exécuter et rendre compte par écrit des tests nécessaires pour s'assurer qu'une application ou un environnement technique répond aux exigences de performances ;
+        Exécuter des plans de conversion et rendre compte par écrit des améliorations possibles ; identifier les failles des process.
+
+        Profil Recherché
+
+            Vous êtes étudiant de formation Bac +5 en informatique, vous êtes à la a recherche d'un stage de fin d’études ;<?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" />
+            Vous avez une première expérience réussie en informatique, sur des technologies Custom Dev telles que Java, J2EE, Python, AngularJS, PL/SQL, C++, Git/Jenkins… ;
+            Appétence pour l’Agilité : Scrum, Xtrem Programming, …
+            Aptitude à travailler en équipe, excellente communication orale et écrite ;
+            Aptitude à faire preuve de créativité et d'esprit d'analyse dans un environnement de résolution des problèmes ;
+            Flexibilité, adaptabilité
+            Vous parlez couramment anglais
+            3 raisons de rejoindre Accenture Technology :
+
+            Accéder à un réseau d’experts pour développer chaque jour ses compétences et son expertise (certifications, formations…) et travailler sur les dernières technologies en appliquant des méthodes innovantes.
+
+            Travailler dans une entité qui est une référence sur le marché et qui souhaite offrir une expertise métier et fonctionnelle unique avec des solutions telles qu’Oracle, Microsoft, Salesforce, Cisco, HP et IBM pour générer un véritable impact sur les entreprises.
+
+            Evoluer dans une organisation qui accordera toujours du temps pour aider ses clients à imaginer et à développer les modèles économiques du futur. Grâce à nos sept laboratoires de R&D dans le monde.
+
+            Accenture c’est aussi :
+
+            Partager une culture internationale : un grand nombre de nos projets ont une dimension internationale, vous pourrez collaborer avec des collègues dans le monde entier même en étant basé au Maroc.
+
+            Evoluer dans un environnement de travail collaboratif : nos espaces sont adaptés à notre manière de travailler (open spaces, salles de visioconférence, phone box,). Nos locaux ont été spécialement conçus pour favoriser la co-création et la performance collective mais aussi pour vous apporter un environnement de travail épanouissant.
+
+            Contribuer à une entreprise engagée : nous sommes une entreprise responsable qui s'engage dans la société. Nous nous engageons auprès de nos collaborateurs en leur proposant des programmes adaptés pour un meilleur équilibre vie pro/vie perso.
+
+contact@Accenture.com

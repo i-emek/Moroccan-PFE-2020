@@ -1,0 +1,10 @@
+﻿! \ Opportunité de stage pré-embauche / ! \
+
+Bonjour à tous,
+
+Pour notre propre compte, société de services IT basée sur la ville de Kénitra, nous sommes présentement à la recherche de stagiaire de formation supérieure en développement informatique. 
+Idéalement de niveau bac+4/5, et familiarisé(e) avec les technologies suivantes : 
+- SQL Server / JavaScript / C# /.NET / HTML / ETL Talend / SSIS / Power BI.
+Vous serez amené(e) à prendre part à des projets de grande valeur ajoutée dans le domaine IT.
+
+Si vous êtes intéressé(e) par cette opportunité de stage pré-embauche, prière de faire part de votre CV actualisé à l’adresse suivante canada@osourcing.ca en mentionnant l’intitulé (STAGE-IT) en objet.

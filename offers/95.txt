@@ -1,0 +1,17 @@
+﻿
+Offre de Stage PFE 
+
+Bouygues-Construction & Colas offrent des stages PFE.
+Sujets  
+1  Automatisation des tests applicatifs & génération des rapports
+2  Création d'une application de gestion & suivi des backups sur des serveurs distants
+
+Technologies  JEE  SQL  .Net  Selenium  PHP  HTML  CSS
+
+Nb de postes  2
+Durée  6 mois
+Rémunération  Oui 
+
+Merci d'envoyer vos CVs sur  bz.mohammed@gmail.com 
+
+Merci de partager

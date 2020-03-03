@@ -1,0 +1,15 @@
+
+?? Opportunités de Stages PFE ??
+
+Matious, une agence digitale spécialisée dans l'accompagnement technologique et marketing pour des entreprises en Europe et en Amérique du nord, est actuellement à la recherche des profils pour des stages PFE et de pré-embauche dans les domaines suivants :
+
+? Full Stack Development
+Technologies: Javascript, ReactJS, NodeJS, Firestore, Amazon Web Service, Github, Jira, Slack
+
+? Mobile Development
+Technologies: Javascript, ReactNative, CSS3, Flexbox, Android & iOS, Firebase, Github, Jira, Slack
+
+? Data Science & ML
+Technologies & Skills : Tensorflow, NLP, Chatbots, Named Entity Recognition, OCR
+
+Merci d'envoyer vos CVs à recrutement@matious.com ou de laisser un commentaire avec le domaine du sujet PFE désiré.

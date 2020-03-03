@@ -1,0 +1,38 @@
+﻿Do you love solving problems, working with the latest technology and engaging with internal and
+
+external customers? We are looking for a Graduate Data Science Intern to join our team in
+
+Casablanca. We believe that technology is essential for driving human progress, and we’re
+
+committed to providing that technology to people and organizations everywhere, so they can
+
+transform the way they work and live.
+
+Key Roles and Responsibilities
+
+    Identify Data Science solutions for various product services initiatives
+    Analyze the historical contact volumes.
+    Analyze features, relationships, and complex interactions among features of a problem.
+    Design and build predictive customer behavior models for targeting and personalization
+    Present findings to product team and technical team leads in a clear and actionable way using
+
+visualization software such as Tableau, PowerBI, Qlikview etc
+
+    The ability to code in Java/Scala and/or Python/R
+    Experience with SQL or comparable, with Microsoft Suite with a deep knowledge in Excel and
+
+Access
+
+    Excellent analytical and problem-solving skills Benefits Our people are the most critical component
+
+of our long-term success and their health and well-being are our priority.
+
+    Excellent verbal and written communication skills in English & French
+
+Optional
+
+    Knowledge of real-time machine learning and/or data mining algorithms and/or statistics-based
+
+algorithm for prediction and optimization
+
+c@skytrend.com

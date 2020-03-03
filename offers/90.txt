@@ -1,0 +1,29 @@
+﻿IN19001
+
+▶ SmartBus offre des stages rémunérés en développement informatique pour des stagiaires dans le cadre de leurs projets de fin d’étude ou fin d’année.  
+
+▶ Mission :
+Vous serez rattaché au directeur technique en discussion permanent pour améliorer la qualité et ajouter des nouvelles fonctionnalités  à une application web et mobile à savoir :
+       ✔  Développement des composants ;
+       ✔  Développement des tests unitaires ;
+       ✔  Réalisation d'API et de web services ;
+       ✔  Réalisation des interfaces graphique ;
+
+▶  Profil recherché :
+       ✔  Passionné par le développement informatique.
+       ✔  	Bonne connaissance des bases de programmation
+       ✔  Autonomies et polyvalence 
+       ✔  	bonne connaissance de HTML/CSS/JS/GIT
+
+▶ Stack :
+       ✔  ionic 
+       ✔  NestJs 
+       ✔  Angular 
+▶   Contact :
+Envoyer vos CVs et lettres de motivation à l’adresse : contact@smartbus.ma en précisant la référence de l’offre dans l’objet de l’email.
+
+▶  A propos de nous :
+Smart Bus est une Start-up Marocaine basée à Berrechid avec une culture orientée innovation. Notre cœur métier est la conception, développement et mise en place des systèmes de géolocalisation et gestion des parcs de véhicules. 
+#stage #PFE #PFA
+
+c@smartbus.com

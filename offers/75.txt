@@ -1,0 +1,60 @@
+﻿Dans le cadre de notre campagne de stages Projets Fin d’Etude 2020, L’équipe Systèmes embarqués et intelligence artificielle vous propose plusieurs sujets selon vos profils et vos motivations.
+
+1-      Sujet : Interface entre GTC avec déchiffrage des trame de GTC + Chatbot
+
+a.       Compétence : JAVA, C et base de données SQLSERVER et mySQL
+
+b.      Formation : Ingénieur ou master
+
+c.       Durée: 6 mois
+
+
+2-      Sujet : Data mining corrélation entre Rendement et météo (Binôme).
+
+a.       Compétence : PYTHON /DATAMING
+
+b.      Formation : Ingénieur ou master
+
+c.       Durée : 6 mois
+
+
+3-      Sujet : SIMULATION TRAFIC AVEC SUMO
+
+a.       Compétence : PYTHON, scripting + intelligence artificielle
+
+b.      Formation : Ingénieur ou master
+
+c.       Durée : 6 mois
+
+ 
+
+4-      Sujet : traitement d'image hyper spectrale
+
+a.       Compétence : Intelligence artificielle (Deep learning) et traitement d’image
+
+b.      Formation : Ingénieur ou master
+
+c.       Duree : 6 mois
+
+ 
+
+5-      Sujet : reconnaissance facial
+
+a.       Compétence : Intelligence artificielle (Deep learning) et traitement d’image
+
+b.      Formation : Ingénieur ou master
+
+c.       Duree : 6 mois
+
+
+6-      Sujet : Portage Radar ligne
+
+a.       Compétence : systèmes embarqués c/c++ et traitement d’image
+
+b.      Formation : Ingénieur ou master
+
+c.       Duree : 6 mois
+
+ 
+
+les candidats intéressés doivent envoyer leurs CV en mentionnant le sujet de stage à h.tagemouati@mascir.com et r.elidrissi@mascir.com avant le 30 Janvier 2020

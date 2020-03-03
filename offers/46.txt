@@ -1,0 +1,11 @@
+﻿Nous recherchons des jeunes passionnés qui aiment créer de la valeur, résoudre des problèmes de la vie réelle en utilisant des technologies de pointe. Stages -PFE- de 6 mois basés à Rabat.
+
+Profil: Etudiant(e) en informatique en dernière année.
+Pré-requis: Passion pour le développement, Problem solver, connaissances solides en algorithmique, une expérience professionnelle préalable en développement Web et/ou Mobile est un plus.
+Avantages: Equipe internationale et multiculturelle d'ingénieurs de haut niveau, technologies de pointe (NodeJs, TypeScript, ReactJs, ReactNative, ElectronJs, MongoDB...) sujets innovants (Cloud computing, Real time communication, scaling ...), rémunération, pré-embauche.
+
+A propos de nous: SanadTech, jeune société d'ingénierie et de conseil spécialisée dans les solutions Cloud et mobiles. Pour savoir plus sur nous https://sanadtech.com/
+
+Si vous pensez que publier des listings de codes source est plus intéressant qu'écrire un CV alors cette offre est pour vous.
+
+c@sanadtech.com

@@ -1,0 +1,49 @@
+﻿Descriptif du poste
+
+Migration du système décisionnel d’Azure vers Snowflake avec Python
+
+Ce stage te donne une chance de t’impliquer dans la création de toute une chaîne décisionnelle sous un encadrement aussi familial que professionnel.
+
+Le but étant de se détacher de notre système actuel de gestion de l’infrastructure BI qui est Azure (Suite Microsoft) et de migrer vers un système 100% basé sur le Cloud (Snowflake).
+
+Travailler avec Snowflake vous permettra de vous plonger en profondeur dans les toutes dernières technologies de base de données sur le cloud et d’apprendre à maîtriser Python en guise d’ETL pour une plus grande flexibilité et modernité technologique.
+
+Les grandes étapes :
+
+    Quantification fonctionnelle : Highlight de toutes les fonctionnalités à migrer, définir la complexité (en termes de temps) de chaque brique.
+
+    Orchestrer la migration par groupe de fonctionnalités
+
+    Développement de la solution (Dev, Test et MEP) :
+
+    Création du schéma de la base de données dans Snowflake
+    Chargement des données depuis Azure vers Snowflake
+    Gestion d’un nouveau ETL compatible avec Snowflake et SQL Server pour l’alimentation quotidienne des données.
+    Réécriture des procédures stockées en Python 
+
+Pour info :
+
+Notre stack data
+
+    Tableau Software (+Online)
+    Amplitude (product analytics)
+    Snowflake
+    Jupyter Notebook
+    Microsoft SQL Server 
+
+Technos utilisées
+
+    Python
+    SQL
+    PySpark 
+
+Profil recherché
+
+Tu es en école d’ingénieur ou équivalent,
+Tu es capable de discuter face to face avec une équipe tech et l’équipe business,
+Tu es Curieux et proactif, tu aimes résoudre des problèmes,
+Tu veux un stage enrichissant dans une équipe à taille humaine,
+Tu veux devenir expert de la data,
+Découvrez l'équipe de Cafeyn (ex-LeKiosk)
+
+c@LeKiosk.com

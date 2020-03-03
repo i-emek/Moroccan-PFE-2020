@@ -1,0 +1,18 @@
+﻿
+Le groupe AKKA MAROC recrute des stagiaires préembauches.
+
+Profil: 
+Ingénieur(e) Développeur Logiciel Ruby On Rails Fullstack H/F qui sera intégré au sein d'une équipe en charge du développement et du maintien d'outils Web de management de projet. 
+ 
+Intégré(e) au sein de la direction du support aux opérations (DSO) vous serez en charge de/d’ :
+ 
+•        Développer des plugins Redmine
+•        Intégrer des designs avec HTML&CSS, JavaScript
+•        Effectuer des tests fonctionnels et d’intégration (RSpec)
+•        Réaliser des API RESTful
+•        Corriger les bugs remontés par les utilisateurs
+
+ 
+Une formation sera dédiée aux stagiaires dans ce sens.
+
+Pour postuler: zineb.benhima@akka.eu

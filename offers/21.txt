@@ -1,0 +1,74 @@
+﻿L’équipe TDA : L’équipe a pour missions principales la création de nouveau outils ou analyses pour répondre efficacement a toute demande du front office, que ce soit à destination des traders, structureurs ou de l’ingénierie.
+
+L’équipe BIU : L’équipe Business Intelligence Unit, épaule les équipes de Trading et Vente dans l’amélioration des processus de prise de décision sur les activités de vente listées et flux. Le métier de la BIU s’appuie principalement sur :
+
+    La gestion de données : récupération, exploitation et intégration des données de marché dans des systèmes internes.
+
+    Le développement des prototypes efficients et scalables en utilisant des méthodologies de Data visualisation et de Machine Learning.
+      
+
+L’équipe SGI : L’équipe SG Index assure le développement, la structuration, la maintenance et la gouvernance d’indices propriétaires Société Générale ; sur une large classe d’actifs. SGI fournit à une clientèle internationale des supports d’investissement ou des solutions de couverture à l’aide de modèles algorithmiques efficients/innovants et de sous-jacents en architecture ouverte. L’équipe interagit avec les desks de vente et de trading des produits structurés dans les 3 régions : Europe, Amérique du nord et Asie.
+
+
+
+MISSIONS :
+
+
+Vous serez encadré par votre encadrant de stage sur les missions suivantes :
+
+Pour l’équipe Trading Analyst (TDA) :
+
+    Produire des reporting qui répondent aux demandes quotidiennes du trading sur tous les aspects de l’activité (positions, financement, exposition aux risques…
+
+    Contrôler les paramètres des prix des options des indices propriétaires SG
+
+    Maintenir et développer les outils de suivi et d’analyse de l’activité (VBA, Python)
+
+
+Pour l’équipe BI analyst :
+
+Vous serez amenés à travailler en environnement Web, python et SQL sur les tâches suivantes :
+
+    Récupérer les données de différentes sources (site web, API internes, fournisseurs..), valider la cohérence et les intégrer dans des systèmes BIU.
+
+    Participer à l’amélioration et à la maintenance des outils Data créés par l’équipe.
+
+    Mettre en place des outils automatisés du reporting statique et/ou dynamique destinés à analyser et visualiser l’évolution de différents paramètres du marché.
+
+    Participer à des projets quantitatifs à travers l’implémentation des algorithmes Machine Learning répondant aux problématiques métiers de Trading et de Vente.
+       
+
+Pour l’équipe Structuration indicielle :
+
+    Analyser en profondeur les écarts de la valorisation interne des stratégies quantitatives avec les providers externes.
+
+    Proposer des spécifications pour améliorer les outils existants de l’activité Client Services et Gouvernance de SG Index (aide à la décision ou contrôle) 
+
+
+PROFIL
+
+
+Vous êtes étudiant en dernière année d’une école d’ingénieur / Université (niveau master 2),
+Vous avez un intérêt marqué pour la finance de marché, les analyses financières. Vous avez de bonnes compétences en langages de scripting (Excel /VBA, Python, SQL, Web Dev…)
+Vous avez des connaissances théoriques et pratiques en analyses de données et en Maching Learning
+Vous avez un esprit analytique et critique vous permettant de comprendre rapidement les spécificités de nos clients et de produire des livrables de qualité
+Vous êtes dynamique, rigoureux, curieux et faites preuve d’adaptabilité
+Vous souhaitez intégrer des équipes talentueuses, jeunes et dynamiques,
+Vous souhaitez évoluer dans un environnement international et travailler avec des techniques à la pointe de l’innovation
+
+
+Alors rejoignez-nous pour votre stage de fin d’études en candidatant avant le 10/11/2019 au soir.
+
+
+A la suite de votre candidature, vous recevrez un lien qui vous permettra de passer un test en ligne le : 17/11/2019
+
+Vous serez ensuite invité dans nos locaux pour un entretien oral
+
+
+Nous nous engageons à vous communiquer une réponse sur votre candidature avant mi-décembre 2019.
+
+
+Stage rémunéré d’une durée de 6 mois
+
+contact@sgats.com
+contact@societegenerale.com

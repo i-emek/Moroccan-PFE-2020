@@ -1,0 +1,18 @@
+﻿
+Appel à Candidature pour Stages de Recherche au sein de la School of Computer and Communication Sciences (SCCS) de l’Université Mohammed VI Polytechnique (UM6P) à Benguérir
+ 
+ 
+La School of Computer and Communication Sciences de l’UM6P à Benguerir, lance un appel à candidature pour des stages de PFE (Projet de Fin d’Etudes) d’une durée minimale de 4 mois. Ces stages, rémunérés, porteront sur des thématiques de pointe telles que :
+- Design of machine learning algorithms, and Artificial Intelligence, 
+- Machine Learning for networked systems, embedded systems, autonomous vehicles, …
+- Blockchain algorithms and cryptocurrency, 
+- Storage systems, distributed data bases, and big data,
+- Recommendation systems, data analysis, and social networks,
+- Security, privacy and advanced cryptography. 
+ 
+Les candidats ayant un bon dossier académique, un bon niveau en anglais et qui sont motivés à poursuivre éventuellement une carrière en recherche, sont invités à envoyer un dossier de candidature à l’adresse dna@um6p.ma avant le 15 janvier 2020. Le dossier de candidature doit être constitué des documents (pdf) suivants:
+-  un CV à jour,
+-  une lettre de motivation
+-  des relevés de notes 
+ 
+Les candidats retenus peuvent bénéficier d’une bourse et environnement de travail á l’international.

@@ -1,0 +1,38 @@
+﻿Graduate Data Science Intern- Big Data Specialty
+
+Casablanca, Morocco
+
+Do you love solving problems, working with the latest technology and engaging with internal and external customers? Within our Dell Technologies Services Team, we are looking for a Graduate Data Science Intern to join our team in Casablanca.
+
+Dell Technologies is a collective of customer-obsessed, industry-leading visionaries. At our core is a commitment to diversity, sustainability and our communities. We offer unparalleled growth and development opportunities for our team members. We believe that technology is essential for driving human progress, and we’re committed to providing that technology to people and organizations everywhere, so they can transform the way they work and live.
+
+Examples Of Key Responsibilities
+
+    Identify Data Science solutions for various product services initiatives
+    Work with analysts and data scientists to improve existing model accuracy.
+    Analyze the historical contact volumes.
+    Analyze features, relationships, and complex interactions among features of a problem.
+    Design and build predictive customer behavior models for targeting and personalization
+    Implement the applicable Machine Learning or statistics-based algorithm for prediction and optimization
+    Present findings to product team and technical team leads in a clear and actionable way.
+
+Python/R , SQL, Machine learning and Statistics.
+
+Essential Requirements
+
+    Excellent verbal and written communication skills in English & French
+    Bachelor or Advanced degree or equivalent in IT, Computer Science, Big Data, Statistics or related field obtained in the last 12 months
+    Programming experience in Java/Scala and/or Python/R
+    Experience with SQL or comparable, with Microsoft Suite with a deep knowledge in Excel and Access
+    Experience implementing real-time machine learning and data mining algorithms
+    Excellent analytical and problem-solving skills
+
+Benefits
+
+Our people are the most critical component of our long-term success and their health and well-being are our priority. You will enjoy a comprehensive, locally competitive benefits package.
+
+Dell is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity and/or expression, national origin, protected veteran status, disability, genetics, or citizenship status (when otherwise legally authorized to work) and will not be discriminated against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we operate. Dell encourages applicants of all ages
+
+Job Id: R035230Job Function: Interns
+
+c@dell.com

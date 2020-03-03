@@ -1,0 +1,14 @@
+﻿à ALICANTE nous cherchons un stagiaire data scientist pour travailler sur un sujet alliant Big Data et Text Mining dans le domaine hospitalier.
+
+Profil :  Étudiant(e) -dernière année d'école d'ingénieur ou Master M2- en informatique avec spécialité Data Science, Big Data,...
+
+Compétences :
+·  Langage de programmation (Java, Python)
+·  Ingénierie linguistique, TAL, Fouille de texte
+·  Big Data (Hadoop, Spark, ElasticSearch …)
+. Bonne maîtrise des bases de statistiques
+·  Connaissance appréciée d’une des librairies répandues, notamment Stanford coreNLP, OpenNLP, ou équivalent
+
+Durée : 4 mois à 6 mois
+
+c@alicante.com

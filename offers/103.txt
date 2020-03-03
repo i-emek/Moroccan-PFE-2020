@@ -1,0 +1,18 @@
+﻿Stagiaires PFE 
+
+Dans le cadre de notre campagne de stages PFE, nous sommes à la recherche de stagiaires sérieux, motivés et surtout ayant un esprit d'équipe 
+Vous serez accueilli(e) au sein d’une équipe jeune et dynamique 
+
+Les technologies recherchées:
+
+PHP ( Symfony, Drupal, EzPublish, Magento)
+Frontend (Html, Css, Angular)
+Mobile (Android/iOS)
+
+Vos CV à : 📩 Rh.maroc@smile-maroc.com 
+
+📍Localisation: Casablanca
+
+Prière de mettre les intitulés de postes en références de vos mails
+
+#Symfony #open_source  #front_end #Odoo #Drupal #EzPublish #Python #Magento

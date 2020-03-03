@@ -1,0 +1,8 @@
+﻿
+Yess Consulting est un éditeur d'ERP Saas (On premise ou pour le Cloud) et aussi un acteur potentiel sur les parties conseil et accompagnement client pour l'intégration des systèmes d'informations et ERP.
+Yess Consulting recrute un/une stagiaire PFE. Issue d'une école d'ingénieur en informatique ou équivalent, vous êtes rigoureux, organisé, créatif et, surtout très motivé pour monter en compétence sur les nouvelles technologies, le sujet suivant peut vous intéresser:
+Modélisation, conception et développement d'un CRM (Customer Relationship Management), backoffice gérant une plateforme Cloud automatiquement.
+Au sein de l'équipe YC, vous serez amené à mettre en place un nouveau module autour des ressources humaines pour compléter l'offre SIRH de YC.
+Technologie demandée : Java, JEE : Spring MVC, Angular, Oracle, Postgresql, HTML, CSS.
+A terme, le/la candidat(e) peut être embauché pour intégrer l'équipe YC.
+Envoyez vos candidatures à : contact@yess-consulting.com en mettant en référence "PFE2020"

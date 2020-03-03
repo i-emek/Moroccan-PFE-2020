@@ -1,0 +1,20 @@
+﻿Au sein d’une équipe, vous participez activement au développement d’une application dans les technologies java/ j2ee.
+
+Vos principales missions seront :
+
+    Réaliser les développements nécessaires et effectuer les tests unitaires
+    Définir et réaiser les procédures de tests techniques et fonctionnels. 
+
+
+Profil recherché :
+
+Compétences requises:
+
+    Maîtrise de Java/JEE.
+    Connaisances des technologies suivantes : JAVA ou Angular, Javascript , GIT, REACT.js ou SCALA .
+    Capacité à travailler en solo et en équipe.
+    Une inépuisable soif d’apprendre.
+    Dynamique et curieux, vous aimez travailler en équipe et prendre des initiatives. Vous êtes passionné par ce que vous faites et êtes force de proposition.
+
+
+c@atos.com

@@ -1,0 +1,16 @@
+﻿
+Cher réseau, 
+
+ La Société ADIAS est une société de services en ingénierie informatique, spécialisée dans le développement de solutions IT sur mesure pour des entreprises de renommée mondiale opérant dans plusieurs secteurs d’activités (aéronautique, automobile, logistique, luxe, médicale, finance, banque …) et filiale du groupe français Crystal Group (www.crystalgroup.com).
+ 
+ADIAS recrute des stagiaires PFE issues des filiales suivantes : 
+-	Génie logiciel
+-	Business Intelligence
+-	E-logistique
+Le stage devra porter sur les sujets suivants : 
+-	Le développement web et mobile JEE
+-	L’intégration des données et Business Intelligence
+-	La participation à la réalisation d’une tour de contrôle logistique
+
+Un stage chez ADIAS vous permettra non seulement de mettre en pratique vos connaissances et ainsi acquérir une expérience professionnelle mais vous ouvre également l'opportunité d’être possiblement embauché à l’issu de ce stage.
+Merci d’envoyer vos CVs à : dinia.moujane@adias.fr
